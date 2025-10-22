@@ -40,6 +40,10 @@ public class StepClass extends BaseClass{
 		validateResponseBody("data[2].first_name", "Tobias");
 		
 		System.out.println("============validated the ResponseBody===========");
+		
+		System.out.println("response code is validated");
+		System.out.println("responseBody is validated");
+		
 	}
 
 
